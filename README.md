@@ -4,7 +4,16 @@ A collection for electrical and computer engineering projects from classes beyon
 
 ## Current status
 
-This repository currently contains this overview. Individual project files and results have not yet been uploaded.
+This repository includes a Circuits II final-project video and an LTspice draft for a sound-activated light.
+
+## Projects
+
+| Project | Available artifacts |
+| --- | --- |
+| [Circuits II final project — ECE 3201](projects/ece-3201-final/README.md) | Final-project video; course number provisionally identified as ECE 3201 |
+| [Sound-activated light](projects/sound-activated-light/README.md) | Editable LTspice schematic draft |
+
+The video and sound-activated-light draft are listed separately until their relationship is confirmed.
 
 ## Project organization
 
